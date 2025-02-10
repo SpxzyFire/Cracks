@@ -47,3 +47,13 @@ once you have added the DLL, you are gonna need the path to get the Right code, 
 After you are done with the modification of the code, make sure that you Compile the file
 
 Make sure you also disable anti virus because the DLL is falsely marked as a virus
+
+# How it now works
+
+Once you the DLL changed, you will still see the key system pop up, but in the code, if you read the code properly, you can see that it works only if you put nothing in the key, here is an exemple
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="300"><figcaption><p>In the Menu</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="297"><figcaption><p>When Clicked the Verify Key</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>When clicked "Ok"</p></figcaption></figure>
