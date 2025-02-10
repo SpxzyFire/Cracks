@@ -1,8 +1,3 @@
----
-description: Step 2
-icon: arrow-down-to-square
----
-
 # Downloading Nezur Executor
 
 Downloading Nezur from the right place is something everyone wants, as that you do not want to harm your computer
