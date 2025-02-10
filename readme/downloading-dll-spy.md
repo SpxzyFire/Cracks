@@ -1,8 +1,3 @@
----
-description: First Step
-icon: arrow-down-to-square
----
-
 # Downloading DLL Spy
 
 #### Steps to Install dnSpy and unzip
