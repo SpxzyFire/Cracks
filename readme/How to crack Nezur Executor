@@ -41,3 +41,9 @@ once you have added the DLL, you are gonna need the path to get the Right code, 
 
 <figure><img src="../.gitbook/assets/Path.png" alt=""><figcaption><p>This is an exemple of the path</p></figcaption></figure>
 
+
+# Finishing and Compiling
+
+After you are done with the modification of the code, make sure that you Compile the file
+
+Make sure you also disable anti virus because the DLL is falsely marked as a virus
