@@ -137,6 +137,6 @@ Make sure you also disable anti virus because the DLL is falsely marked as a vir
 
 # How it now works
 
-Once you the DLL changed, you will still see the key system pop up, but in the code, if you read the code properly, you can see that it works only if you put nothing in the key, here is an exemple
+Once you the DLL changed, you will still see the key system pop up, but in the code, if you read the code properly, you can see that it works only if you put nothing in the key it will let you threw, so make sure that you put nothing inside the textbox or else it will not work, there will also and obviously be a notification letting you know if it went threw
 
 <figure><img src="../.gitbook/assets/image (1).png" alt="" width="300"><figcaption><p>In the Menu</p></figcaption></figure>
