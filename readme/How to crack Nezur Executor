@@ -24,3 +24,20 @@ To install Nezur, follow these simple steps:
 2. **Unzip the File**: Locate the downloaded ZIP file and unzip it using your preferred extraction tool.
 3. **Copy to New Folder**: Once unzipped, copy the extracted files and paste them into a new folder on your computer for easy access.
 
+# Finding the Correct Path
+
+## Make sure you have added the DLL inside of dnSpy!
+
+
+
+once you have added the DLL, you are gonna need the path to get the Right code, here is how to find the path
+
+1. **Finding the needed code's Path:**\
+   Nezur\_Interface (1.0.0.0) \
+   &#x20;  ├── Nezur\_Interface.dll\
+   &#x20;        └── Nezur\_Interface\
+   &#x20;               └── KeyPage\
+   &#x20;                       └── Button\_Click
+
+<figure><img src="../.gitbook/assets/Path.png" alt=""><figcaption><p>This is an exemple of the path</p></figcaption></figure>
+
