@@ -1,8 +1,3 @@
----
-description: Fourth Step
-icon: eye
----
-
 # Finding the Correct Path
 
 ## Make sure you have added the DLL inside of dnSpy!
